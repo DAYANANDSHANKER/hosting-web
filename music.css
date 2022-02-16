@@ -1,0 +1,95 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background-image: url(music1.jpg);
+    
+    background-size: cover;
+    height: 100vh;
+}
+
+ul{
+
+    float: right;
+    margin-top: 40px;
+    margin-right:20px;
+    font-size: x-large;
+    
+
+}
+ul li {
+    display: inline;
+}
+ul li a{
+    text-decoration: none;
+    padding: 10px 30px;
+    color: brown;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    left: 20%;
+    transition: 0.9s;
+    margin-right: 40px;
+}
+ul li a:hover{
+    background-color:rgb(214, 7, 7);
+    color: aliceblue;
+    border-radius: 20px;
+}
+.title{
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    color:black;
+    letter-spacing: 2px;
+    background-color: black;
+    background-color: rgba(243, 236, 236, 0.5);
+    padding: 90px 40px;
+    margin-bottom: 50%;
+    border-radius: 0px 30px;
+    width: 490px;
+} 
+.title h1{
+    margin-top: -90px;
+    
+} 
+.button{
+    position:absolute;
+    left: 60%;
+    top: 40%;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.button a{
+    border: 5px inset rgb(245, 230, 230);
+    padding: 15px 39px;
+    text-decoration: none;
+    color: beige;
+    background-color: rgba(43, 250, 60, 0.2);
+    margin: 20px;
+    border-radius: 40px;
+
+}
+.button a:hover{
+    background-color: pink;
+    color: black;
+}
+.title p{
+       font-size:x-large;
+       
+}
+.dev{
+    padding: 40px ;
+    font-size:x-large;
+    color:black;
+    padding:20px 30px;
+    max-height: 200px;
+    overflow: scroll;
+    background-color: aquamarine;
+    margin-top: 60px;
+}
+
+    

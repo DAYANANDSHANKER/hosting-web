@@ -1,0 +1,18 @@
+body{
+   border: 2px solid black;
+}
+
+P{
+    width: 400px;
+    height: 100px;
+    background-color:yellowgreen;
+    max-width: 300px;
+    word-wrap: break-word;
+    text-sadow: 5px 10px blueviolet;
+
+   border: 5px dotted red;
+   margin: auto;
+   margin-top: 20%;
+   text-overflow: ellipsis;
+   overflow: scroll;
+}

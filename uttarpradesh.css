@@ -1,0 +1,93 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    background-image: url(a1.jpg);
+    height: 100vh;
+    background-size: cover;
+
+}
+
+
+.info{
+    background-color: black;
+    color: aliceblue;
+    font-size: 40px;
+    padding: 20px 30px;
+    text-align: center;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 20px;
+    
+}
+.info1{
+    background-image: url(a1.jpg);
+    height: 15vh;
+    margin-left: 490px;
+    margin-right: 570px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+
+}
+.shift{
+    margin-left: 90px;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 14%;
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+.info2{
+    background-image: url(a1.jpg);
+    height: 15vh;
+    margin-left: 490px;
+    margin-right: 570px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.shift1{
+    margin-left: 190px;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 14%;
+    text-decoration: none;
+    color: aliceblue;
+
+}
+.info3{
+    background-image: url(a1.jpg);
+    height: 15vh;
+    margin-left: 490px;
+    margin-right: 570px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+
+}
+.shift2{
+    margin-left: 150px;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 14%;
+    text-decoration: none;
+    color: aliceblue;
+
+}
+.info4{
+    background-image: url(a1.jpg);
+    height: 15vh;
+    margin-left: 490px;
+    margin-right: 570px;
+    margin-top: 25px;
+
+}
+.shift3{
+    margin-left: 150px;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 14%;
+    text-decoration: none;
+    color: aliceblue;
+
+}
